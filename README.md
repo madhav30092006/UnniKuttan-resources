@@ -29,13 +29,6 @@ Project created by <a href="https://github.com/madhav30092006">Madhav-MN</a> to 
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 </p>
 
-## 📢 Guide
-Click WA logo to Join Support Group 👇
-    <br>
-
-       
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=madhav30092006&repo=PublicBot&theme=nightowl)](https://github.com/madhav30092006/PublicBot)
-  </div>
     
 ## Setup
 <div align="center">
